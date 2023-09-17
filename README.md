@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gargniks428
 - 👀 I’m interested in Front end Development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/nikhil-garg-a881b9193/
 - 
 
