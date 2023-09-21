@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @gargniks428
 - 👀 I’m interested in Front end Development
 - 🌱 I’m currently learning React
-- 📫 How to reach me https://www.linkedin.com/in/nikhil-garg-a881b9193/
-- 
+  
 
 <!---
 gargniks428/gargniks428 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
